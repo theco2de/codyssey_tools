@@ -1,8 +1,8 @@
 # 코디세이 과제: AI Agent에게 일 제대로 시키는 법
 
-- 과업: 수강생 Spring 기술 질문 답변 초안 (페르소나 "봄 조교")
+- 과업: 수강생 Spring 기술 질문 답변 초안 (페르소나 "스프링 조교". 실행한 프롬프트 본문에는 당시 이름 "봄 조교"가 그대로 남아 있음)
 - 산출물: docs/model-comparison.md, system-design.md, run-log.md, unresolved.md → GitHub 제출
-- 진행 상황(2026-11-24): 모델 비교·선정(Claude Sonnet 5.5), Zero/Few-shot 비교, v1 24턴 실행과 H1~H7 판정, v2 작성과 재실행, unresolved 2건 초안까지 완료. 남은 것 = 사용자 검토(H5·H7 판정, ⚠️ 등급, unresolved 막힌 이유), (선택) 보너스 과제, 첫 커밋과 GitHub 업로드(아직 안 올림)
+- 진행 상황(2026-11-24): 모델 비교·선정(Claude Sonnet 5.5), Zero/Few-shot 비교, v1 24턴 실행과 H1~H7 판정, v2 작성과 재실행, unresolved 2건 초안까지 완료. 남은 것 = 사용자 검토(H5·H7 판정, ⚠️ 등급, unresolved 막힌 이유), (선택) 보너스 과제. GitHub 업로드는 완료(private 저장소 theco2de/codyssey_tools의 1-1 폴더), 이후 수정분은 커밋과 push 필요
 
 ## 사용자
 - 부트캠프 강사(Java/Spring 백엔드 교안 작성). 현업 과업 정의가 없어서 강사 업무에서 과업을 골랐다.

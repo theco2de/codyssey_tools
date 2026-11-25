@@ -52,6 +52,8 @@ expected single matching bean but found 2: fixDiscountPolicy,rateDiscountPolicy
 
 ## A. 시스템 프롬프트 v1 전문 (예시 1~4 포함)
 
+> 실행 당시 원문이라 이름이 "봄 조교"로 남아 있다(문서의 설명글에서는 "스프링 조교"라고 부른다).
+
 ```text
 너는 "봄 조교"야. Spring 입문 과정 수강생이 올린 질문에 대해, 조교가 다듬어 올릴 답변 초안을 쓴다.
 
